@@ -49,6 +49,7 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart.",
     technologies: ["HTML", "React", "Redux-toolkit","Tailwind", "Firebase"],
+    url:"https://redux-shopping-cart-6ff0f.web.app/"
   },
   {
     title: "Food Ordering App",
@@ -56,6 +57,7 @@ export const PROJECTS = [
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    url:'https://moms-food-9d0e6.web.app/'
   },
   {
     title: "NetFlix-GPT",
@@ -63,6 +65,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "React", "TailwindCSS","Youtube-Public-API","Firebase"],
+    url:''
   },
   {
     title: "Youtube-clone",
@@ -70,6 +73,7 @@ export const PROJECTS = [
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["React.Js", "TailwindCss", "Youtube-Public-API"],
+    url:''
   },
 ];
 
