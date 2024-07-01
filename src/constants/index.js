@@ -16,21 +16,27 @@ export const EXPERIENCES = [
     year: "Nov,2022 - Jan,2024",
     role: "System Engineer",
     company: "Tata Consultancy Services,Pune",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.JS, CSS. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `Lead a team in developing and maintaining web applications 
+    using JavaScript, React.JS, CSS. Implemented RESTful APIs and integrated with MongoDB databases. 
+    Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "CSS"],
   },
   {
     year: "Feb,2022 -  Nov,2022",
     role: "Software Engineer",
-    company: "iProgrammer Solutions Private Limited ,Pune",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    company: "iProgrammer Solutions Private Ltd,Pune",
+    description: `Designed and developed user interfaces for web applications using Next.js and React. 
+    Worked closely with backend developers to integrate frontend components with Node.js APIs. 
+    Implemented responsive designs and optimized frontend performance.`,
     technologies: ["HTML", "CSS", "Angular", "Bootstrap","React.Js"],
   },
   {
     year: "Sept,2019 - Sept,2021",
     role: "Software Engineer",
-    company: "Anka Technology Solutions Pvt. Ltd.",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js, Angular 6+. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    company: "Anka Technology Solutions Private Ltd,Pune",
+    description: `Developed and maintained web applications using JavaScript, React.js, and 
+    Node.js, Angular 6+. Designed and implemented RESTful APIs for data communication. 
+    Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
     technologies: ["Angular", "React.Js", "Bootstrap", "Material"],
   },
   {
@@ -43,14 +49,7 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
-  {
-    title: "E-Commerce Website",
-    image: project1,
-    description:
-      "A fully functional e-commerce website with features like product listing, shopping cart.",
-    technologies: ["HTML", "React", "Redux-toolkit","Tailwind", "Firebase"],
-    url:"https://redux-shopping-cart-6ff0f.web.app/"
-  },
+
   {
     title: "Food Ordering App",
     image: project2,
@@ -58,6 +57,14 @@ export const PROJECTS = [
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
     url:'https://moms-food-9d0e6.web.app/'
+  },
+  {
+    title: "E-Commerce Website",
+    image: project1,
+    description:
+      "A fully functional e-commerce website with features like product listing, shopping cart.",
+    technologies: ["HTML", "React", "Redux-toolkit","Tailwind", "Firebase"],
+    url:"https://redux-shopping-cart-6ff0f.web.app/"
   },
   {
     title: "NetFlix-GPT",

@@ -25,7 +25,7 @@ const Project = () => {
                 <h6 className="mb-2 font-semibold">{project?.title}</h6>
                 <p className="mb-2 text-neutral-400">{project?.description}</p>
                 {project?.technologies.map((tech,indexone)=>
-                <span key={indexone} className="text-nowrap mr-2 rounded bg-neutral-900 py-2 px-1 text-sm font-medium  text-purple-800 my-1 ">{tech}</span>)}
+                <span key={indexone} className="text-nowrap mr-2 rounded bg-neutral-900 py-2 px-1 text-sm font-medium text-white my-1 ">{tech}</span>)}
             </div>
              </div>
         ))}
