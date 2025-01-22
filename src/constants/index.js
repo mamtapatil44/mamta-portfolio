@@ -74,7 +74,7 @@ export const PROJECTS = [
     url:'https://netflix-gpt-git-main-mamtapatil44s-projects.vercel.app/'
   },
   {
-    title: "Youtube-clone",
+    title: "Youtube-Clone",
     image: project4,
     description:
       "A YouTube Clone project typically involves building a platform that mimics the core features of YouTube, such as video viewing along with recommondations. ",
