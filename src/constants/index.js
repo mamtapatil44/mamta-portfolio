@@ -78,7 +78,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "A YouTube Clone project typically involves building a platform that mimics the core features of YouTube, such as video viewing along with recommondations. ",
-    technologies: ["React.Js", "TailwindCss", "Youtube-Public-API"],
+    technologies: ["React", "TailwindCss", "Youtube-Public-API"],
     url:'https://youtube-clone-git-main-mamtapatil44s-projects.vercel.app/'
   },
   {
