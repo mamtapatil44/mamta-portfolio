@@ -3,15 +3,21 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HOME_CONTENT = `I am a passionate front end developer with a knack for crafting robust and scalable web applications. With 5.5 years of hands-on experience, I have honed my skills in front-end technologies like React and Angular, as well as back-end technologies like Node.js. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HOME_CONTENT = `I am a passionate Full Stack Developer with a knack for crafting robust and scalable web applications. With hands-on experience in both front-end technologies like React and Angular, as well as back-end technologies like Node.js, I have honed my skills in building end-to-end solutions. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile front end developer developer with a passion for creating efficient and user-friendly web applications. With 5.5 years of professional experience, I have worked with a variety of technologies, including React.js, Node.js. 
-My journey in web development began with a deep curiosity for how things work, 
-and it has evolved into a career where I continuously strive to learn and adapt to new challenges. 
-I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, 
-I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile Full Stack Developer with a passion for creating efficient and user-friendly web applications. As an experienced developer, I have worked with a variety of technologies, including Angular, React.js and Node.js.
+
+My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
+  {
+    year: "May,2024 - Dec,2024",
+    role: "Freelancer (Fullstack Developer)",
+    company: "Bimride",
+    description: `Lead a team in developing and maintaining admin portal
+    using angular17, tailwind css. Designed and developed GraphQL APIs that allow communication between the front end and the back end.`,
+    technologies: ["Angular17", "TailwindCss", "NodeJS"],
+  },
   {
     year: "Nov,2022 - Jan,2024",
     role: "System Engineer",
@@ -50,14 +56,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
 
-  {
-    title: "Food Ordering App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-    url:'https://moms-food-9d0e6.web.app/'
-  },
+ 
   {
     title: "E-Commerce Website",
     image: project1,
@@ -70,17 +69,25 @@ export const PROJECTS = [
     title: "NetFlix-GPT",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "React", "TailwindCSS","Youtube-Public-API","Firebase"],
-    url:''
+      "Netflix-GPT is a project where the goal is to clone the Netflix platform and enhance it with the power of GPT, like OpenAI's GPT models, to improve user experience, search capabilities, or even integrate conversational features.",
+    technologies: ["HTML", "React", "TailwindCSS","TMDB api","Firebase"],
+    url:'https://netflix-gpt-git-main-mamtapatil44s-projects.vercel.app/'
   },
   {
     title: "Youtube-clone",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "A YouTube Clone project typically involves building a platform that mimics the core features of YouTube, such as video viewing along with recommondations. ",
     technologies: ["React.Js", "TailwindCss", "Youtube-Public-API"],
-    url:''
+    url:'https://youtube-clone-git-main-mamtapatil44s-projects.vercel.app/'
+  },
+  {
+    title: "Food Ordering App",
+    image: project2,
+    description:
+      "A Food Ordering App is a platform that allows users to browse restaurants, select food items, place orders, and get food delivered.",
+    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    url:'https://moms-food-9d0e6.web.app/'
   },
 ];
 
