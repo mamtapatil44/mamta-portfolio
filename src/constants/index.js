@@ -62,7 +62,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart.",
-    technologies: ["HTML", "React", "Redux-toolkit","Tailwind", "Firebase"],
+    technologies: ["HTML", "React", "Redux-toolkit","TailwindCss", "Firebase"],
     url:"https://redux-shopping-cart-6ff0f.web.app/"
   },
   {
@@ -70,7 +70,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "Netflix-GPT is a project where the goal is to clone the Netflix platform and enhance it with the power of GPT, like OpenAI's GPT models, to improve user experience, search capabilities, or even integrate conversational features.",
-    technologies: ["HTML", "React", "TailwindCSS","TMDB api","Firebase"],
+    technologies: ["HTML", "React", "TailwindCss","TMDB","Firebase"],
     url:'https://netflix-gpt-git-main-mamtapatil44s-projects.vercel.app/'
   },
   {
