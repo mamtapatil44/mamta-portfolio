@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     role: "Freelancer (Fullstack Developer)",
     company: "Bimride",
     description: `Lead a team in developing and maintaining admin portal
-    using angular17, tailwind css. Designed and developed GraphQL APIs that allow communication between the front end and the back end.`,
+    using Angular17, TailwindCss. Designed and developed GraphQL APIs that allow communication between the front end and the back end.`,
     technologies: ["Angular17", "TailwindCss", "NodeJS"],
   },
   {
@@ -88,6 +88,14 @@ export const PROJECTS = [
       "A Food Ordering App is a platform that allows users to browse restaurants, select food items, place orders, and get food delivered.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
     url:'https://moms-food-9d0e6.web.app/'
+  },
+  {
+    title: "Employee Management",
+    image: project2,
+    description:
+      "An Employee Management App is a web application designed to help businesses and organizations manage employee information effectively. This app allows administrators to perform key operations like adding new employees, updating existing employee details, viewing employee lists, and tracking work-related data. By leveraging Angular 18 for the frontend and Bootstrap for responsive design, the app ensures a seamless and dynamic user experience.",
+    technologies: ["HTML", "Bootstrap", "Angular", "SWAGGER API"],
+    url:''
   },
 ];
 
