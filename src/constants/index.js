@@ -11,12 +11,11 @@ My journey in web development began with a deep curiosity for how things work, a
 
 export const EXPERIENCES = [
   {
-    year: "May,2024 - Dec,2024",
+    year: "May,2024 - Present",
     role: "Freelancer (Fullstack Developer)",
-    company: "Bimride",
-    description: `Lead a team in developing and maintaining admin portal
-    using Angular17, TailwindCss. Designed and developed GraphQL APIs that allow communication between the front end and the back end.`,
-    technologies: ["Angular17", "TailwindCss", "NodeJS"],
+    company: "",
+    description: `Freelancer specializing in developing and maintaining both front-end and back-end components of web applications, ensuring seamless user experiences and efficient functionality.`,
+    technologies: ["Angular17", "TailwindCss", "NodeJS","React"],
   },
   {
     year: "Nov,2022 - Jan,2024",
