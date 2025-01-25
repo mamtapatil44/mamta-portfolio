@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className='text-center py-10'>
         <p>Created by Mamta Patil,
-         Copyright© 2024.</p>
+         Copyright© 2025.</p>
     </div>
   )
 }
