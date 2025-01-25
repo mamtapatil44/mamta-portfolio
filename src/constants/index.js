@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
 
 export const HOME_CONTENT = `I am a passionate Full Stack Developer with a knack for crafting robust and scalable web applications. With hands-on experience in both front-end technologies like React and Angular, as well as back-end technologies like Node.js, I have honed my skills in building end-to-end solutions. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -12,8 +13,8 @@ My journey in web development began with a deep curiosity for how things work, a
 export const EXPERIENCES = [
   {
     year: "May,2024 - Present",
-    role: "Freelancer (Fullstack Developer)",
-    company: "",
+    role: "Fullstack Developer",
+    company: "Freelancer",
     description: `Freelancer specializing in developing and maintaining both front-end and back-end components of web applications, ensuring seamless user experiences and efficient functionality.`,
     technologies: ["Angular17", "TailwindCss", "NodeJS","React"],
   },
@@ -45,10 +46,10 @@ export const EXPERIENCES = [
     technologies: ["Angular", "React.Js", "Bootstrap", "Material"],
   },
   {
-    year: "July,2017 - Dec,2018",
+    year: "Jan,2017 - Dec,2018",
     role: "Associate Professor",
-    company: "NMCOE,Pethanaka",
-    description: `Worked as teaching assitant.`,
+    company: "NMCOE,Peth",
+    description: `Worked as a Teaching Assistant.`,
     technologies: ["RAC", "TQM"],
   },
 ];
@@ -66,7 +67,7 @@ export const PROJECTS = [
   },
   {
     title: "NetFlix-GPT",
-    image: project3,
+    image: project2,
     description:
       "Netflix-GPT is a project where the goal is to clone the Netflix platform and enhance it with the power of GPT, like OpenAI's GPT models, to improve user experience, search capabilities, or even integrate conversational features.",
     technologies: ["HTML", "React", "TailwindCss","TMDB","Firebase"],
@@ -74,7 +75,7 @@ export const PROJECTS = [
   },
   {
     title: "Youtube-Clone",
-    image: project4,
+    image: project3,
     description:
       "A YouTube Clone project typically involves building a platform that mimics the core features of YouTube, such as video viewing along with recommondations. ",
     technologies: ["React", "TailwindCss", "Youtube-Public-API"],
@@ -82,7 +83,7 @@ export const PROJECTS = [
   },
   {
     title: "Food Ordering App",
-    image: project2,
+    image: project4,
     description:
       "A Food Ordering App is a platform that allows users to browse restaurants, select food items, place orders, and get food delivered.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
@@ -90,11 +91,11 @@ export const PROJECTS = [
   },
   {
     title: "Employee Management",
-    image: project2,
+    image: project5,
     description:
       "An Employee Management App is a web application designed to help businesses and organizations manage employee information effectively. This app allows administrators to perform key operations like adding new employees, updating existing employee details, viewing employee lists, and tracking work-related data. By leveraging Angular 18 for the frontend and Bootstrap for responsive design, the app ensures a seamless and dynamic user experience.",
-    technologies: ["HTML", "Bootstrap", "Angular", "SWAGGER API"],
-    url:''
+    technologies: ["HTML", "Bootstrap", "Angular", "Swagger Api"],
+    url:'https://github.com/mamtapatil44/agnular_18_employee_management'
   },
 ];
 
