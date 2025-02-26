@@ -49,8 +49,8 @@ export const EXPERIENCES = [
     year: "Jan,2017 - Dec,2018",
     role: "Associate Professor",
     company: "NMCOE,Peth",
-    description: `Worked as a Teaching Assistant.`,
-    technologies: ["RAC", "TQM"],
+    description: `Developed and maintained web applications using JavaScript,Angular`,
+    technologies: ["Angular", "HTML","CSS],
   },
 ];
 
