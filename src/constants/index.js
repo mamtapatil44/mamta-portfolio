@@ -50,7 +50,7 @@ export const EXPERIENCES = [
     role: "Associate Professor",
     company: "NMCOE,Peth",
     description: `Developed and maintained web applications using JavaScript,Angular`,
-    technologies: ["Angular", "HTML","CSS],
+    technologies: ["Angular", "HTML","CSS"],
   },
 ];
 
