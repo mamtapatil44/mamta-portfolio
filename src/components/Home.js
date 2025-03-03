@@ -15,7 +15,7 @@ const Home = () => {
               className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500
                         bg-clip-text tracking-tighter font-3xl text-transparent"
             >
-              Software Engineer (Full Stack Developer)
+              Software Engineer (Mean/Mern Stack Developer)
             </span>
             <p className="my-6 max-w-xl py-6 font-light tracking-tighter">
               {HOME_CONTENT}
