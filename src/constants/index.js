@@ -37,21 +37,14 @@ export const EXPERIENCES = [
     technologies: ["HTML", "CSS", "Angular", "Bootstrap","React.Js"],
   },
   {
-    year: "Sept,2019 - Sept,2021",
+    year: "Jan,2017 - Sept,2021",
     role: "Software Engineer",
     company: "Anka Technology Solutions Private Ltd,Pune",
     description: `Developed and maintained web applications using JavaScript, React.js, and 
     Node.js, Angular 6+. Designed and implemented RESTful APIs for data communication. 
     Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
     technologies: ["Angular", "React.Js", "Bootstrap", "Material"],
-  },
-  {
-    year: "Jan,2017 - Dec,2018",
-    role: "Frontend Developer",
-    company: "NMCOE,Peth",
-    description: `Developed and maintained web applications using JavaScript,Angular`,
-    technologies: ["Angular", "HTML","CSS"],
-  },
+  }
 ];
 
 export const PROJECTS = [
