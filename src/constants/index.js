@@ -13,7 +13,7 @@ My journey in web development began with a deep curiosity for how things work, a
 export const EXPERIENCES = [
   {
     year: "May,2024 - Present",
-    role: "Mean Stack Developer",
+    role: "Angular Developer",
     company: "Freelancer",
     description: `Freelancer specializing in developing and maintaining both front-end and back-end components of web applications, ensuring seamless user experiences and efficient functionality.`,
     technologies: ["Angular17", "TailwindCss", "NodeJS","React"],
