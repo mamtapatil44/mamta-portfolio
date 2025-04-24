@@ -37,7 +37,7 @@ export const EXPERIENCES = [
     technologies: ["HTML", "CSS", "Angular", "Bootstrap","React.Js"],
   },
   {
-    year: "Jan,2016 - Sept,2021",
+    year: "Jan,2017 - Sept,2021",
     role: "Software Engineer",
     company: "Anka Technology Solutions Private Ltd,Pune",
     description: `Developed and maintained web applications using JavaScript, React.js, and 
