@@ -94,5 +94,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Sandy Spring, Atlanta, GA 30328 ",
-  email: "mamtapatil44@gmail.com",
+  email: "mamtapatil.tech@gmail.com",
 };
